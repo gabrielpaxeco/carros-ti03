@@ -18,6 +18,8 @@ export default {
       'shoulders': '"Big Shoulders Display"',
       'lexend': '"Lexend Deca"',
     },
+
+    
   },
   plugins: [],
 }
