@@ -14,7 +14,7 @@ export default {
       "offwhitegb": "#f2f2f2",
     },
 
-    fontfamily: {
+    fontFamily: {
       'shoulders': '"Big Shoulders Display"',
       'lexend': '"Lexend Deca"',
     },
